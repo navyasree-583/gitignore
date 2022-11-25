@@ -6,4 +6,4 @@ new-file.txt
 bin/
 
 # Ignore all .temp files
-*.temp
+*.tmp
